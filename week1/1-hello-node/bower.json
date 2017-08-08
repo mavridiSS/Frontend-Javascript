@@ -1,0 +1,10 @@
+{	
+  "name": "1-hello-node",
+  "description": "To start off let's create our directory structure and set up a new hello world project.",
+  "main": "server.js",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
