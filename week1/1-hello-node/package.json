@@ -1,0 +1,15 @@
+{
+  "name": "1-hello-node",
+  "version": "1.0.0",
+  "description": "To start off let's create our directory structure and set up a new hello world project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
