@@ -6,12 +6,14 @@ var express = require('express');
 // declare the app
 var app = express();
 
-// TODO: configure the app
+// configure the app
+
+app.use(express.static('public'));
 
 // add the routes
-app.get('/', function (req, res) {
-  res.send('Hello World!');
-})
+// app.get('/', function (req, res) {
+//   res.send('Hello World!');
+// })
 
 // launch the server
 var server = app.listen(8080, function () {
