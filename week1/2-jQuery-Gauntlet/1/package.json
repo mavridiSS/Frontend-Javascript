@@ -1,0 +1,14 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "You have to take the first steps in every frontend app:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}

@@ -1,14 +1,14 @@
 {
   "name": "1",
   "description": "",
-  "main": "index.html",
+  "main": "public/index.html",
   "license": "MIT",
   "homepage": "",
   "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
+    "public",
     "test",
     "tests"
   ]
